@@ -1,4 +1,4 @@
-# Getting Started BAD---Project-One-GPT3-Clone
+# Getting Started REACT BAD---Project-One-GPT3-Clone
 
 Hello. To begin with, this project is based on the JavaScript Mastery channel.
 
